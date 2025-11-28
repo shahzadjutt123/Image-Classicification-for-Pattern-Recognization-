@@ -1,5 +1,5 @@
 # Dog-Cat Classifier
-### By Arda Mavi
+### By Shahzad Akram
 
 Dog and cat image classifier with deep learning.<br/>
 
